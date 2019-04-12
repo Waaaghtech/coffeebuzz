@@ -18,3 +18,4 @@ This repository includes all the required operation for creating a web applicati
 4. For merging to master take a pull request.
 
 **Check this repo for all [git and terminal commands](https://github.com/SFaraji/Cheat-Sheet).**
+**Please also add any required documentation file into the shared OneDrive folder.**
