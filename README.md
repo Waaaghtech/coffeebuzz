@@ -1,4 +1,4 @@
-# coffeebuzz
+# CoffeeBuzz
 This repository includes all the required operation for creating a web application for a cafe shop called "coffee shop 4U".
 
 # Getting Started
